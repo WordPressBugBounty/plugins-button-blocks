@@ -1,0 +1,11 @@
+= 1.0.2 =
+Fix: resolved Icon picker issues
+
+= 1.0.1 =
+Fix: Resolved font family issues
+Fix: Ensured block CSS is loaded only on the respective page
+Added: 50 default colors and 100 gradient colors support
+Added: Support for global background color, padding, margin, border, border-radius, and box shadow
+
+= 1.0.0 =
+Initial release

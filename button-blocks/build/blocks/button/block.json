@@ -1,0 +1,22 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "button-blocks/button",
+  "version": "1.0.0",
+  "title": "Button",
+  "category": "button-blocks",
+  "description": "A customizable button block for adding interactive and stylish buttons to your content.",
+  "example": {},
+  "supports": {
+    "anchor": false,
+    "align": [
+      "wide",
+      "full"
+    ],
+    "customClassName": false
+  },
+  "textdomain": "button-blocks",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}
